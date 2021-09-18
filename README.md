@@ -29,6 +29,7 @@ GET /clients/1
 ### Inserção de novo cliente
 
 POST /clients
+
 {
   "name": "Maria Silva",
   "cpf": "12345678901",
@@ -39,6 +40,7 @@ POST /clients
 
 ### Atualização de cliente
 PUT /clients/1
+
 {
   "name": "Maria Silvaaa",
   "cpf": "12345678901",
