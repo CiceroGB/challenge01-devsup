@@ -69,11 +69,11 @@ public class ClientDTO implements Serializable {
 		this.income = income;
 	}
 
-	public Instant getBirtDate() {
+	public Instant getBirthDate() {
 		return birthDate;
 	}
 
-	public void setBirtDate(Instant birtDate) {
+	public void setBirthDate(Instant birtDate) {
 		this.birthDate = birtDate;
 	}
 
